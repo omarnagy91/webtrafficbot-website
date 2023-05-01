@@ -1,0 +1,369 @@
+[{
+        "url": "https://webtrafficbot.com/blog/example-post-7/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": "post"
+      },{
+        "url": "https://webtrafficbot.com/blog/example-post-6/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": "post"
+      },{
+        "url": "https://webtrafficbot.com/blog/example-post-5/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": "post"
+      },{
+        "url": "https://webtrafficbot.com/blog/example-post-4/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": "post"
+      },{
+        "url": "https://webtrafficbot.com/blog/example-post-3/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": "post"
+      },{
+        "url": "https://webtrafficbot.com/blog/example-post-2/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": "post"
+      },{
+        "url": "https://webtrafficbot.com/blog/example-post-1/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": "post"
+      },
+    {
+        "url": "https://webtrafficbot.com/404.html",
+        "category": "",
+        "title": "{{ site.brand.name }} - Page not found",
+        "desc": "This page was not found. Please let us know if we have a broken link somewhere!",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/about/",
+        "category": "",
+        "title": "{{ site.brand.name }} - About",
+        "desc": "Discover {{ site.brand.name }} and learn what we're all about",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/authentication/account/",
+        "category": "",
+        "title": "Account - {{ site.brand.name }}",
+        "desc": "Manage your {{ site.brand.name }} account.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/ads.txt",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/blog/",
+        "category": "",
+        "title": "{{ site.brand.name }} - Blog",
+        "desc": "Stay up to date with the latest {{ site.brand.name }} news and best practices.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/budget.json",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/checkout/",
+        "category": "",
+        "title": "Checkout",
+        "desc": "Checkout with our product.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/checkout/confirmation/",
+        "category": "",
+        "title": "Thank you!",
+        "desc": "Thanks for checking out!",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/submission/confirmation/",
+        "category": "",
+        "title": "Submission Confirmation",
+        "desc": "Thank you for taking the time to submit your request. We will get back to you as soon a possible.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/contact/",
+        "category": "",
+        "title": "{{ site.brand.name }} - Contact",
+        "desc": "Contact {{ site.brand.name }} if you need assistance with anything.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/cookies/",
+        "category": "",
+        "title": "Cookie Policy - {{ site.brand.name }}",
+        "desc": "This cookie policy has been compiled to better serve those who are concerned with how their personal information is being used online.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/notifications/create/",
+        "category": "",
+        "title": "Create Notification",
+        "desc": "Send push notifications to capture your audience!",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/posts/create/",
+        "category": "",
+        "title": "Create Post",
+        "desc": "Create blog posts with ease, including the beautiful markdown editor StackEdit.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/dashboard/",
+        "category": "",
+        "title": "Dashboard",
+        "desc": "Manage {{ site.brand.name }} via this helpful dashboard.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/discord/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/email-subscription/",
+        "category": "",
+        "title": "Subscribe to our Newsletter",
+        "desc": "Subscribe to our newsletter so you can be in the know about our latest projects.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/feedback/",
+        "category": "",
+        "title": "Feedback - {{ site.brand.name }}",
+        "desc": "Provide feedback to the  {{ site.brand.name }} team and help us improve our product for you.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/lab/firestore/",
+        "category": "",
+        "title": "Firestore",
+        "desc": "Test your Firestore rules in this sandbox.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/authentication/forgot/",
+        "category": "",
+        "title": "Forgot - {{ site.brand.name }}",
+        "desc": "Recover your password for {{ site.brand.name }}.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/posts/",
+        "category": "",
+        "title": "Posts",
+        "desc": "View posts",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/notifications/",
+        "category": "",
+        "title": "Notifications",
+        "desc": "View notifications",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/oauth2/",
+        "category": "",
+        "title": "OAuth2 - {{ site.brand.name }}",
+        "desc": "Authorize your account to connect it to {{ site.brand.name }}.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/users/",
+        "category": "",
+        "title": "Explore Users",
+        "desc": "Explore users with this Firestore query tool.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/",
+        "category": "",
+        "title": "{{ site.brand.name }} - Home",
+        "desc": "We at {{ site.brand.name }} are a great company and would love to design an intuitive solution for you!",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/search/main.json/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/manifest.json",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/master-service-worker.js",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/users/online/",
+        "category": "",
+        "title": "Explore Online Users",
+        "desc": "Explore online users with this Firestore query tool.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/feeds/posts.xml",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/notifications/vendor/preview/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/privacy/",
+        "category": "",
+        "title": "Privacy Policy - {{ site.brand.name }}",
+        "desc": "This privacy policy has been compiled to better serve those who are concerned with how their personal information is being used online.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/_report/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/authentication/required/",
+        "category": "",
+        "title": "Authentication Required - {{ site.brand.name }}",
+        "desc": "Authentication required for {{ site.brand.name }}.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/robots.txt",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/search/cse/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/authentication/signin/",
+        "category": "",
+        "title": "Sign in - {{ site.brand.name }}",
+        "desc": "Sign in to {{ site.brand.name }}.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/authentication/signout/",
+        "category": "",
+        "title": "Sign out - {{ site.brand.name }}",
+        "desc": "Sign out from {{ site.brand.name }}.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/authentication/signup/",
+        "category": "",
+        "title": "Sign up - {{ site.brand.name }}",
+        "desc": "Sign up for {{ site.brand.name }}.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/sitemap.xml",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/slack/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/posts/vendor/stackedit/",
+        "category": "",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/terms/",
+        "category": "",
+        "title": "Terms Of Service - {{ site.brand.name }}",
+        "desc": "By accessing and using our products and services, you agree to comply with the Terms of Use listed here.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/authentication/token/",
+        "category": "",
+        "title": "Token - {{ site.brand.name }}",
+        "desc": "Token {{ site.brand.name }}.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+        "url": "https://webtrafficbot.com/admin/lab/webhook/",
+        "category": "",
+        "title": "Webhook",
+        "desc": "Test your webhook in this sandbox.",
+        "breadcrumb": "",
+        "type": ""
+      },{
+    "END": "END"
+  }
+]
